@@ -308,13 +308,6 @@ See [CONTRIBUTION.md](CONTRIBUTION.md) for full requirements (metadata.yaml, req
     src="https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left"
   />
 </picture>
-
----
-
-## 📜 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
 ---
 
 <div align="center">
