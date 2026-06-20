@@ -292,28 +292,3 @@ See [CONTRIBUTION.md](CONTRIBUTION.md) for full requirements (metadata.yaml, req
 
 ---
 
-## Star History
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left"
-  />
-  <img
-    alt="Star History Chart"
-    src="https://api.star-history.com/svg?repos=ashishpatel26/500-AI-Agents-Projects&type=date&legend=top-left"
-  />
-</picture>
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it useful — it helps others discover it!**
-
-[Report Issue](https://github.com/ashishpatel26/500-AI-Agents-Projects/issues) • [Request Agent](https://github.com/ashishpatel26/500-AI-Agents-Projects/issues/new?template=feature_request.md) • [Contribute](CONTRIBUTION.md)
-
-</div>
